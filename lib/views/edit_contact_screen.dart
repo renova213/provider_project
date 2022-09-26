@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 import '../models/contact_model.dart';
-import 'widgets/edit_contact_controls.dart';
+import 'widgets/widgets.dart';
 
 class EditContactScreen extends StatefulWidget {
   final ContactModel contact;

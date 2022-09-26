@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 
 import '../models/contact_model.dart';
 import 'edit_contact_screen.dart';
-import 'widgets/delete_contact_controls.dart';
+import 'widgets/widgets.dart';
 
 class DetailContact extends StatefulWidget {
   final ContactModel contact;

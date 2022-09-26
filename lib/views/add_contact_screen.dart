@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'widgets/add_form_contact.dart';
+import 'widgets/widgets.dart';
 
 class AddContact extends StatefulWidget {
   const AddContact({super.key});
